@@ -1,0 +1,10 @@
+/* Map */
+#map {
+  width: 100%;
+  height: 500px;
+}
+
+#place-search {
+  max-width: 90%;
+  margin-left: 5%;
+}
